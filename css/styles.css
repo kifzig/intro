@@ -1,0 +1,121 @@
+/* --------top of website ------------------*/
+
+
+.top-container {
+      background-color: #7C99AC;
+      position: relative;
+      padding-top: 100px;
+}
+
+.cityscape {
+    width: 25%
+}
+
+.middle-container {
+    background-color: #92A9BD;
+    margin: 100px 0;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto auto auto auto;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #D3DEDC;
+    font-size: .65em;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    margin: 100px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+
+.icon-1 {
+    width: 15%;
+    float: left;
+    padding: 30px;
+}
+
+.icon-2 {
+    width: 15%;
+    float: right;
+    padding: 30px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+/*
+<!--
+.skill-desc {
+    clear: left;
+}
+*/
+
+div {margin: 0;
+}
+
+body {
+    color: #40514E
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 1em;
+    background-color: #92A9BD;
+}
+
+h1 {
+    margin-top: 0;
+    line-height: 2;
+    font-family: "Sacramento", cursive;
+    font-size: 5.62rem;
+    margin: 0 auto 0 auto;
+    color: white;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    color: white;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    margin: 0;
+    line-height: 2;
+}
+
+ul {
+     line-height: 1.5;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+a {
+    color: #424952;
+    line-height: 1em;
+    margin: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+color: #EAF6F6;
+}
